@@ -30,6 +30,7 @@
     "test": "nyc _mocha -- -c tests/{examples,lib}/**/*.js --timeout 30000"
   },
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
     "index.js",
     "lib/index.js",
